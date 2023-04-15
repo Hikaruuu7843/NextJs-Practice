@@ -1,0 +1,20 @@
+{
+  "people": [
+    {
+      name: "Caoileann Boran Wirner",
+      age: 24,
+      image: "https://tiermaker.com/images/chart/chart/cartoon-characters-i-want-to-punch-in-the-face-full-748002/41cuqnjf5klacjpg.png"
+    },
+    {
+      name: "Maristela August Keir",
+      age: 32,
+      image: "https://i.pinimg.com/236x/31/b3/4a/31b34a198288fa2e1b4e4ba7dbff8857.jpg"
+    },
+    {
+      name: "Gherardo Santina Geels",
+      age: 22,
+      image: "https://www.pngitem.com/pimgs/m/483-4830898_transparent-could-clipart-random-dumb-cartoon-characters-hd.png"
+    }
+
+  ]
+}
