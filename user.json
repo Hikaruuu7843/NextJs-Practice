@@ -1,23 +1,26 @@
-{
-  "people": [
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/57905/pexels-photo-57905.jpeg?cs=srgb&dl=pexels-jack-hawley-57905.jpg&fm=jpg"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/37534/cube-six-gambling-play-37534.jpeg?cs=srgb&dl=pexels-pixabay-37534.jpg&fm=jpg"
+  },
     {
-      "id": 1,
-      "name": "Caoileann Boran Wirner",
-      "age": 24,
-      "image": "https://tiermaker.com/images/chart/chart/cartoon-characters-i-want-to-punch-in-the-face-full-748002/41cuqnjf5klacjpg.png"
-    },
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHYbzz8bNsfxTW7MUidCqjVqqGiS9dsqklg&usqp=CAU"
+  },
     {
-     "id": 2,
-     "name": "Maristela August Keir",
-      "age": 32,
-      "image": "https://i.pinimg.com/236x/31/b3/4a/31b34a198288fa2e1b4e4ba7dbff8857.jpg"
-    },
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_Av29rQmH3jcroOgtB4eHwEkvcpmj84qDg&usqp=CAU"
+  },
     {
-      "id": 3,
-      "name": "Gherardo Santina Geels",
-      "age": 22,
-      "image": "https://www.pngitem.com/pimgs/m/483-4830898_transparent-could-clipart-random-dumb-cartoon-characters-hd.png"
-    }
-
-  ]
-}
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Fq8YZ3ihhlhVOnljSyAMrywn0mVG6LdUxw&usqp=CAU"
+  },
+    {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUUYvB1Zvx_zWsDJBMXWdetEM5ahtp48Ipw&usqp=CAU"
+  },
+]
