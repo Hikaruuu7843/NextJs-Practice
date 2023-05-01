@@ -1,4 +1,5 @@
 {
+    [
     {
         "id": 1,
         "name": "Satoru Gojo",
@@ -40,5 +41,6 @@
         "info": "Toge Inumaki (狗いぬ巻まき棘とげ Inumaki Toge?) is a major supporting character in Jujutsu Kaisen and one of the main protagonists of its prequel, Jujutsu Kaisen 0: Jujutsu High. He is a descendant of the Inumaki clan and has inherited the clan's cursed speech, which he's developed his own unique speech pattern for in order to avoid cursing others.",
         "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cb/Toge_Inumaki_%28Anime_2%29.png/revision/latest?cb=20211225182039"
     }
+    ]
 }
 
