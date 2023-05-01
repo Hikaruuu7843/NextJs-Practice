@@ -1,5 +1,4 @@
-{
-    "aot": [
+[
         {
             "id": 1,
             "name": "Eren Yeager",
@@ -41,7 +40,5 @@
         "info": "Jean Kirstein (ジャン・キルシュタイン Jan Kirushutain?) is a graduate of the 104th Training Corps, among whom he ranked 6th best. Jean hails from Wall Rose's Trost District, and joined the military with hopes of obtaining a peaceful life as part of the Military Police Brigade, but would later find himself joining the Survey Corps.",
         "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest?cb=20210207230042"
         }
-    ]
+  ]
 
-
-}
