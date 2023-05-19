@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Attack on Titan",
+        "cover": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b3/Attack_on_Titan_The_Final_Season.jpg/revision/latest?cb=20200529093654",
+        "characters": [
+            {
+                "name": "Eren Yeager",
+                "info": "Eren Yeager (エレン・イェーガー Eren Yēgā) was a former member of the Survey Corps. He was the main protagonist of Attack on Titan.",
+                "image": "https://e0.pxfuel.com/wallpapers/777/679/desktop-wallpaper-attack-on-titan-eren-yeager-twitter-eren-yeager-adult.jpg"
+    
+            },
+            {
+                "name": "Levi Ackerman",
+                "info": "LLevi is a soldier working for the Survey Corps Special Operations Squad, also known as Squad Levi, a squad of four elite soldiers with impressive combat records hand-picked by him.",
+                "image": "https://c4.wallpaperflare.com/wallpaper/1017/333/245/anime-attack-on-titan-attack-on-titan-blood-wallpaper-preview.jpg"
+    
+            },
+            {
+                "name": "Armin Arlert",
+                "info": "Armin Arlert is one of the main protagonists of the anime/manga series Attack on Titan. He is a refugee from Shiganshina and Eren Yeager and Mikasa Ackerman's best friend from childhood.",
+                "image": "https://w0.peakpx.com/wallpaper/952/659/HD-wallpaper-armin-arlert-art-anime-characters-attack-on-titan.jpg"
+    
+            },
+            {
+                "name": "Mikasa Ackerman",
+                "info": "Mikasa Ackerman (ミカサ・アッカーマン Mikasa Akkāman?) is one of the two deuteragonists of the series, along with Armin Arlert. After her parents were murdered by human traffickers, Mikasa was rescued by Eren Yeager and lived with him and his parents, Grisha and Carla, before the fall of Wall Maria.",
+                "image": "https://e1.pxfuel.com/desktop-wallpaper/905/605/desktop-wallpaper-mikasa-attack-on-titan-attack-on-titan-anime-pc.jpg"
+    
+            },
+            {
+                "name": "Erwin Smith",
+                "info": "Commander Erwin Smith is a supporting protagonist in the anime/manga series Attack on Titan. He is the 13th commander of the Scouting Legion. He is noted for his brilliant and resourceful mind, having created new tactics that greatly reduced losses during operations.",
+                "image": "https://wallpapercave.com/wp/wp9496170.jpg"
+    
+            },
+            {
+            "name": "Jean Kirstein",
+            "info": "Jean Kirstein (ジャン・キルシュタイン Jan Kirushutain?) is a graduate of the 104th Training Corps, among whom he ranked 6th best. Jean hails from Wall Rose's Trost District, and joined the military with hopes of obtaining a peaceful life as part of the Military Police Brigade, but would later find himself joining the Survey Corps.",
+            "image": "https://c4.wallpaperflare.com/wallpaper/424/716/833/anime-attack-on-titan-jean-kirstein-wallpaper-preview.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Jujutsu Kaisen",
+        "cover": "https://preview.redd.it/my-take-on-a-vol-23-cover-chapter-212-213-spoilers-v0-ls5tgih937ka1.jpg?width=640&crop=smart&auto=webp&s=b311dce4e665ed055b4bc1f10da4bc186031f7d8",
+        "characters": [
+            {
+                "name": "Satoru Gojo",
+                "info": "Satoru Gojo (五ご条じょう悟さとる Gojō Satoru?) is one of the main protagonists of the Jujutsu Kaisen series. He is a special grade jujutsu sorcerer and widely recognized as the strongest in the world.",
+                "image": "https://c4.wallpaperflare.com/wallpaper/406/731/736/anime-boys-gojo-satoru-hd-wallpaper-preview.jpg"
+    
+            },
+            {
+                "name": "Yuji Itadori",
+                "info": "Yuji Itadori (Japanese: 虎杖悠仁, Hepburn: Itadori Yūji) is a fictional character and the main protagonist of the manga series Jujutsu Kaisen created by Gege Akutami. Yuji is a first-year Jujutsu Sorcerer at Tokyo Jujutsu High who is thrown into the world of sorcery after he ate a Cursed Object: a finger belonging to Ryomen Sukuna (宿儺, Sukuna), a powerful Cursed Spirit.",
+                "image": "https://w0.peakpx.com/wallpaper/28/454/HD-wallpaper-yuuji-itadori-jujutsu-kaisen.jpg"
+    
+            },
+            {
+                "name": "Megumi Fushiguro",
+                "info": "Megumi Fushiguro (Japanese: 伏黒恵, Hepburn: Fushiguro Megumi) is a fictional character of the manga series Jujutsu Kaisen created by Gege Akutami. He is a first-year student at Tokyo Jujutsu High, an academy to become a Jujutsu Sorcerer and develop Cursed Techniques to fight against Cursed Spirits.",
+                "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/dd/Megumi_Fushiguro_%28Anime_2%29.png/revision/latest?cb=20201025012501"
+    
+            },
+            {
+                "name": "Nobara Kugisaki",
+                "info": "Nobara Kugisaki (Japanese: 釘崎野薔薇, Hepburn: Kugisaki Nobara) is a fictional character of the manga series Jujutsu Kaisen created by Gege Akutami. A first-year student at Tokyo Jujutsu High, an academy to hone Cursed Techniques to fight against Cursed Spirits arising from negative emotions from humans.",
+                "image": "https://c4.wallpaperflare.com/wallpaper/337/613/149/anime-anime-girls-jujutsu-kaisen-kugisaki-nobara-hammer-hd-wallpaper-preview.jpg"
+        
+            },
+            {
+                "name": "Maki Zen'in",
+                "info": "Maki Zen'in (Japanese: 禪院 真希, Hepburn: Zen'in Maki) is a fictional character from Gege Akutami's manga Jujutsu Kaisen 0. She is a young student from Jujutsu High, mentored by Satoru Gojo. While working on missions involving Curses.",
+                "image": "https://wallpapercave.com/wp/wp9988371.jpg"
+        
+            },
+            {
+                "name": "Toge Inumaki",
+                "info": "Toge Inumaki (狗いぬ巻まき棘とげ Inumaki Toge?) is a major supporting character in Jujutsu Kaisen and one of the main protagonists of its prequel, Jujutsu Kaisen 0: Jujutsu High. He is a descendant of the Inumaki clan and has inherited the clan's cursed speech, which he's developed his own unique speech pattern for in order to avoid cursing others.",
+                "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cb/Toge_Inumaki_%28Anime_2%29.png/revision/latest?cb=20211225182039"
+            }
+        ]
+    }
+]
