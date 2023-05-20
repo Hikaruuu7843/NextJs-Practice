@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Attack on Titan",
         "cover": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b3/Attack_on_Titan_The_Final_Season.jpg/revision/latest?cb=20200529093654",
-        "characters": [
+        "characters": 
             {
                 "name": "Eren Yeager",
                 "info": "Eren Yeager (エレン・イェーガー Eren Yēgā) was a former member of the Survey Corps. He was the main protagonist of Attack on Titan.",
@@ -39,13 +39,13 @@
             "info": "Jean Kirstein (ジャン・キルシュタイン Jan Kirushutain?) is a graduate of the 104th Training Corps, among whom he ranked 6th best. Jean hails from Wall Rose's Trost District, and joined the military with hopes of obtaining a peaceful life as part of the Military Police Brigade, but would later find himself joining the Survey Corps.",
             "image": "https://c4.wallpaperflare.com/wallpaper/424/716/833/anime-attack-on-titan-jean-kirstein-wallpaper-preview.jpg"
             }
-        ]
+        
     },
     {
         "id": 2,
         "title": "Jujutsu Kaisen",
         "cover": "https://preview.redd.it/my-take-on-a-vol-23-cover-chapter-212-213-spoilers-v0-ls5tgih937ka1.jpg?width=640&crop=smart&auto=webp&s=b311dce4e665ed055b4bc1f10da4bc186031f7d8",
-        "characters": [
+        "characters": 
             {
                 "name": "Satoru Gojo",
                 "info": "Satoru Gojo (五ご条じょう悟さとる Gojō Satoru?) is one of the main protagonists of the Jujutsu Kaisen series. He is a special grade jujutsu sorcerer and widely recognized as the strongest in the world.",
@@ -81,6 +81,6 @@
                 "info": "Toge Inumaki (狗いぬ巻まき棘とげ Inumaki Toge?) is a major supporting character in Jujutsu Kaisen and one of the main protagonists of its prequel, Jujutsu Kaisen 0: Jujutsu High. He is a descendant of the Inumaki clan and has inherited the clan's cursed speech, which he's developed his own unique speech pattern for in order to avoid cursing others.",
                 "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cb/Toge_Inumaki_%28Anime_2%29.png/revision/latest?cb=20211225182039"
             }
-        ]
+        
     }
 ]
