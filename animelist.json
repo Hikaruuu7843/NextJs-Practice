@@ -156,5 +156,42 @@
 
             }
         ]
-    }  
+    },
+            {
+        "id": 5,
+        "title": "Code Geass",
+        "cover": "https://www.ecranlarge.com/uploads/image/001/150/teamoahtohbctl01eg8h8juzbbq-225.jpg",
+        "characters": [
+            {
+                "name": "Lelouch Lamperouge",
+                "info": "e is the Eleventh Prince of the Holy Britannian Empire and the son of the 98th Emperor of Britannia, Charles zi Britannia, who was exiled after his younger sister, Nunnally vi Britannia, was blinded and crippled in an ambush that caused the death of his mother, Marianne vi Britannia. After being exiled to Japan by his father to cover up their own plans for global conquest, he changed his name to Lelouch Lamperouge in order to conceal his identity and embraced Japan as his true home. However, Lelouch is left traumatized after witnessing Britannia's conquest of the country and vows to destroy them. After gaining the power of Geass, the power to compel people, from the mysterious C.C., Lelouch becomes the vigilante Zero and leader and founder of the Black Knights, the Japanese resistance, to overthrow Britannia and create a better world for his sister and friends.",
+                "image": "https://i.pinimg.com/736x/36/19/34/36193487eaa81adfa3dca485019e3cd2.jpg"
+
+            },
+            {
+                "name": "C.C.",
+                "info": "Before C.C. gained the power of Geass, she was a ten-year-old orphaned slave. A nun gave C.C. the power of Geass, allowing C.C. to make anyone love her. When C.C. grew tired of forced love, she looked instead for love from the nun, who was above her power. However, when C.C.'s power had grown, the nun revealed she had tricked C.C. as a ploy to lose her immortality, and tortured the young woman until C.C. accepted the nun's Code. After C.C. gains immortality, a shock sequence in the first-season finale shows memories of her past, including repeated deaths of different types spanning centuries. Alive for hundreds of years, she speaks to Lelouch of Washington's Rebellion, referring to George Washington and Benjamin Franklin as if she had been close with both. She claims to have entered into magical Geass contracts with hundreds of people over her lifetime, in futile attempts to lose her immortality.",
+                "image": "https://mymediachops.com/wp-content/uploads/2021/05/C.C.QuotesFacebookFeatureImage.jpg"
+
+            },
+            {
+                "name": "Kallen Stadtfeld",
+                "info": "Kallen is half Britannian and half Japanese, but believes herself to be Japanese at heart due to being born and raised in Japan by her mother. She prefers to be known by the name Kozuki, her mother's maiden name and her original birth name. Her father is a Britannian and her mother is an Eleven; her father comes from a prestigious Britannian family, from which Kallen benefited after she was officially acknowledged as his heir after the invasion of Japan. Due to her parents never marrying she was considered illegitimate before this point, and spent years treated as and living as an Eleven before her father claimed her as his own during her middle school years (approximately 1-2 years before the start of Code Geass R1). Because of this she bears no personal attachment to the Stadtfeld name, seeing it as a fake identity; in Japanese credits and apocrypha she is exclusively titled as Kallen Kozuki as a result. She attends Ashford Academy, where she later becomes a member of its student council and is one of its most outstanding students. Her brother, Naoto Kozuki (紅月ナオト, Kōzuki Naoto), with whom she had a deep connection, was a former leader of her resistance cell before his death.",
+                "image": "https://i.redd.it/7cpdtf6rpsk01.png"
+
+            },
+            {
+                "name": "Suzaku Kururugi",
+                "info": "Suzaku Kururugi, born on July 10, 2000 a.t.b., is the son of Japan's last prime minister, Genbu Kururugi. His existence was kept secret from the public until after the war. Suzaku met Lelouch vi Britannia and his sister Nunnally vi Britannia when they moved to the Kururugi residence as a diplomatic peace trade. Initially, Suzaku thought Lelouch was a selfish prince and despised him. However, as time passed, he came to know Lelouch better, and they soon became best friends. They were separated when Britannia invaded Japan but were reunited in the Shinjuku Ghetto. When Britannia began its invasion of Japan, Suzaku was mortified by the violence and his father's belief that resisting to the bitter end was preferable to surrendering. Unable to change his father's mind, Suzaku murdered him during a heated exchange. The incident was covered up and Suzaku's life was spared, while the government was thrown into disarray and surrendered to Britannia. Lelouch believes that, had Genbu lived, Japan likely would have been torn apart by war once the other major powers decided to intervene. His guilt over the incident causes Suzaku to constantly place himself on the frontlines in the hope of atoning for his actions with his death. It also inspires his belief that the ends achieved with immoral means are meaningless since he created peace through murder. However, after firing the F.L.E.I.J.A. warhead, under the command of Lelouch's Geass, he abandons this belief and decides to achieve his goals regardless of the means. This causes him to finally join Lelouch.",
+                "image": "https://otakukart.com/wp-content/uploads/2021/12/will-suzaku-kururugi-die-in-code-geass-article.jpg"
+
+            },
+            {
+                "name": "Euphemia Li Britannia",
+                "info": "Euphemia li Britannia (ユーフェミア リ ブリタニア, Yūfemia ri Buritania), 16 years old (17-18 in Zero: Defender of the Empress), is the Third Princess of the Britannian Imperial Family. Euphemia is Lelouch vi Britannia's half-sister and the sister he cared most about after Nunnally. Euphemia was the Sub-Viceroy of Area 11, a role she admittedly did not enjoy. Euphemia admired her older sister, Cornelia, but despised all combat in general, though was capable of piloting a Knightmare Frame. She returns at the fifth archive where it is revealed that she was kept out of commission, hidden with her death being faked, and managed to be recover with the help of the Ragnarök. It is revealed that the Geass casted on her also had the order to live, similar to Suzaku, with Lelouch knowing that after the order to kill the japanese would kill her and was used as a scapegoat, with Lelouch's goal was to make Euphemia a guide for Nunnally when she becomes the Empress.",
+                "image": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9c/Euphemia_Li_Britannia.png/800px-Euphemia_Li_Britannia.png"
+
+            }
+        ]
+    } 
 ]
