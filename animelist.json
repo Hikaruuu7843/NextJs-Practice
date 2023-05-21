@@ -119,5 +119,42 @@
 
             }
         ]
+    },
+        {
+        "id": 4,
+        "title": "Spy x Family",
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589104880l/50891127.jpg",
+        "characters": [
+            {
+                "name": "Anya Forger",
+                "info": "A young girl who can read minds, Anya is the only one who knows the overall situation of her family but conceals her talents and her awareness, both out of excitement over Loid's and Yor's jobs and for fear of abandonment. She claimed to be six when she read Loid’s mind and learned that he needed a six-year-old for his mission, and although she appears to be around age four or five; her true age is currently unknown. She was originally an experimental human test subject dubbed Subject 007 (被検体007, Hikentai Zero Zero Sebun, lit. Test Subject 007). The only confirmed details of her past is her name Anya and that she had been adopted by several families, only to be returned to the orphanage each time. Although she displays a great control in her mind reading power, Anya cannot use it during a new moon. Moreover, she often gets nauseous or a nosebleed when she has to listen to a lot of people's minds at the same time thus she tends to avoid crowded places.",
+                "image": "https://i.pinimg.com/originals/d3/65/1c/d3651c58a7a96c3922ffe08171f072f0.jpg"
+
+            },
+            {
+                "name": "Loid Forger",
+                "info": "An unnamed spy from Westalis with extraordinary combat, memory, and information processing capabilities.[ch. 1–2] As a master of disguise, he uses various faces and names for each mission, though he is generally known by his code name Twilight. His most recent mission, Operation Strix, requires him to enroll a child in the prestigious Eden Academy to approach a prominent figure in Ostania's warmonger political party, Donovan Desmond.[ch. 1] He subsequently camouflages himself as Loid Forger, a psychiatrist at Berlint General Hospital, to create a false family by adopting Anya and marrying Yor, although he is ignorant of their hidden talents. Loid possesses a vast amount of talents and skills in espionage and in real life. Although he appears to be manipulative and pragmatic when accomplishing his missions, he slowly reveals his soft side to his family and as time passes, he grows to care for them genuinely, although he outwardly does not admit it.",
+                "image": "https://wallpapercrafter.com/desktop/295523-Anime-Spy-x-Family-Phone-Wallpaper.jpg"
+
+            },
+            {
+                "name": "Yor Forger",
+                "info": "A 27-year-old professional assassin nicknamed Thorn Princess, who has a day job as an employee at Berlint City Hall. She agrees to a fake marriage without knowing Loid's true background, as unmarried young women are suspected of being spies. She believes Loid's lie that Anya is Loid's biological daughter from a previous marriage. Yor is extremely strong and tough, as she can kick a speeding car to the curb, dice a tennis ball with a racket, survive bullet wounds, slice through a cutting board, and withstand lethal poisons. Her weapons of choice are needle-like stilettos; they are long, have no guard, and have a ring pommel. Yor is also an expert in hand-to-hand combat, being able to paralyze targets with her pressure point technique, stab through the human body with her spear-hand technique and give Loid a difficult time when they spar.",
+                "image": "https://wallpapercrafter.com/desktop/296433-Anime-Spy-x-Family-Phone-Wallpaper.jpg"
+
+            },
+            {
+                "name": "Damian Desmond",
+                "info": "A classmate of Anya and the son of Donovan Desmond. Loid aims to approach his father through him and has been pushing Anya into becoming friends with Damian. Since his father has an overwhelming authority, Damian works hard to gain his father's attention and approval. He is diligent in his studies, and excels in History, which is showed when he earns a Stella Star in the History midterm exam by placing 2nd in his grade. He was formerly hostile and arrogant toward Anya but has gradually changed and developed feelings for her as a result of various misunderstandings during their encounters. He has an Imperial Scholar older brother named Demetrius Desmond and a German Shepherd dog named Max (マックス, Makkusu). He stays in the dormitories of Cecil Hall at school with his two closest friends, Emile and Ewen.",
+                "image": "https://e1.pxfuel.com/desktop-wallpaper/108/541/desktop-wallpaper-damian-desmond.jpg"
+
+            },
+            {
+                "name": "Franky Franklin",
+                "info": "An informant who provides information to Twilight and a longtime friend of the spy; he first met Twilight during the last war between Westalis and Ostania, as soldiers from opposite sides of the battlefield. He is aware of Twilight's mission, the Forger family's situation and frequently acts as a caretaker for Anya and Bond. He works as a tobacconist during the day and an inventor in his free time. He is notably hopeless in his romantic pursuits. Anya calls him Scruffy (モジャ, Moja, lit. unkempt, shaggy) and he seems to be fond of that name, sometimes using it as his alias in his informant jobs.",
+                "image": "https://cdn.myanimelist.net/images/characters/11/495209.jpg"
+
+            }
+        ]
     }  
 ]
