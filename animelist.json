@@ -1,8 +1,16 @@
-[
+{
+    "profile":[
     {
         "id": 1,
         "title": "Attack on Titan",
         "cover": "https://pbs.twimg.com/media/FVcWHmOWIAMNiSD.jpg",
+        "description": "The story of Attack on Titan centers on a civilization inside three circular walls. According to the knowledge propagated locally, it is the last surviving vestige of human civilization. Its inhabitants, known as Eldians, have been led to believe that over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight. The last remnants of humanity retreated behind three concentric walls and enjoyed roughly a century of peace. Within the walls, the thought of venturing outside is strongly frowned upon and discouraged. To combat Titans, the country's military employs Vertical Maneuvering Equipment (VME), also called Omni-Directional Maneuvering Gear (ODM Gear): a set of waist-mounted grappling hooks and gas-powered propulsion enabling immense mobility in three dimensions. Swords made of ultrahard steel are used in conjunction with the gear, and eventually rocket launcher-like weapons called Thunder Spears are also developed.",
+        "info": {
+            "japaneseTitle": "Shingeki no Kyojin /  進撃の巨人",
+            "aired": "April 7, 2013",
+            "status": "Currently airing",
+            "studio": "Wit Studio (seasons 1–3) and MAPPA (season 4)."
+        },
         "characters": [
             {
                 "name": "Eren Yeager",
@@ -44,7 +52,14 @@
     {
         "id": 2,
         "title": "Jujutsu Kaisen",
-        "cover": "https://preview.redd.it/my-take-on-a-vol-23-cover-chapter-212-213-spoilers-v0-ls5tgih937ka1.jpg?width=640&crop=smart&auto=webp&s=b311dce4e665ed055b4bc1f10da4bc186031f7d8",
+        "cover": "https://preview.redd.it/my-take-on-a-vol-23-cover-chapter-212-213-spoilers-v0-ls5tgih937ka1.jpg?width=640&crop=smart&auto=webp&s=b311dce4e665ed055b4bc1f10da4bc186031f7d8",        
+        "description": "Yuji Itadori is an unnaturally fit high school student living in Sendai. On his deathbed, his grandfather instils two powerful messages within Yuji: always help others and die surrounded by people. Yuji's friends at the Occult Club attract Curses to their school when they unseal a rotten finger talisman. Yuji swallows the finger to protect Jujutsu Sorcerer Megumi Fushiguro, becoming host to a powerful Curse named Ryomen Sukuna. Due to Sukuna's evil nature, all sorcerers are required to exorcise him (and, by extension, Yuji) immediately. However upon seeing Yuji retaining control over his body, Megumi's teacher Satoru Gojo brings him to the Tokyo Prefectural Jujutsu High School with a proposal to his superiors: postpone Yuji's death sentence and train under Gojo until he consumes all 20 of Sukuna's fingers so the Curse can be eliminated. At the same time, a group of Cursed Spirits plot a multi-layered attack on the world of Jujutsu sorcery, including the Cursed Spirit Mahito and a corrupted sorcerer named Suguru Geto, who was executed by Gojo a year prior.",
+        "info": {
+            "japaneseTitle": "呪術廻戦 / Sorcery Fight",
+            "aired": "March 5, 2018",
+            "status": "Currently airing",
+            "studio": "MAPPA"
+        },
         "characters": [
             {
                 "name": "Satoru Gojo",
@@ -87,6 +102,13 @@
         "id": 3,
         "title": "Demon Slayer",
         "cover": "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+        "description": "In order to maintain the state of peace between the rival nations of Westalis and Ostania, a Westalian agent code-named Twilight is tasked with spying on Donovan Desmond, leader of the National Unity Party within Ostania. However, due to Desmond being notoriously reclusive, the only way Twilight can get close to him is to enroll a child in the same private school as Desmond's sons and pose as a fellow parent. To accomplish this and present the image of a happy family, he creates the alias of Loid Forger, adopts a young orphan girl named Anya, and marries a woman named Yor Briar. However, unbeknownst to him Anya can read minds and Yor is in fact a professional assassin. Neither Loid nor Yor are aware of each other's true identities, or that Anya knows their true professions.\nThe family later takes in a dog with precognitive abilities whom they name Bond. Despite these unknown factors and Twilight's occasional lapses of common sense due to years of being a spy, he must learn to play the role of the perfect father and husband in order to carry out his mission.",
+        "info": {
+            "japaneseTitle": "Kimetsu no Yaiba / 鬼滅の刃",
+            "aired": "April 6, 2019",
+            "status": "Currently airing",
+            "studio": "Ufotable "
+        },
         "characters": [
             {
                 "name": "Tanjiro Kamado",
@@ -124,6 +146,13 @@
         "id": 4,
         "title": "Spy x Family",
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589104880l/50891127.jpg",
+        "description": "Yuji Itadori is an unnaturally fit high school student living in Sendai. On his deathbed, his grandfather instils two powerful messages within Yuji: always help others and die surrounded by people. Yuji's friends at the Occult Club attract Curses to their school when they unseal a rotten finger talisman. Yuji swallows the finger to protect Jujutsu Sorcerer Megumi Fushiguro, becoming host to a powerful Curse named Ryomen Sukuna. Due to Sukuna's evil nature, all sorcerers are required to exorcise him (and, by extension, Yuji) immediately. However upon seeing Yuji retaining control over his body, Megumi's teacher Satoru Gojo brings him to the Tokyo Prefectural Jujutsu High School with a proposal to his superiors: postpone Yuji's death sentence and train under Gojo until he consumes all 20 of Sukuna's fingers so the Curse can be eliminated. At the same time, a group of Cursed Spirits plot a multi-layered attack on the world of Jujutsu sorcery, including the Cursed Spirit Mahito and a corrupted sorcerer named Suguru Geto, who was executed by Gojo a year prior.",
+        "info": {
+            "japaneseTitle": "スパイファミリー / Supai Famirī",
+            "aired": "April 9, 2022",
+            "status": "Currently airing",
+            "studio": "CloverWorks"
+        },
         "characters": [
             {
                 "name": "Anya Forger",
@@ -161,6 +190,13 @@
         "id": 5,
         "title": "Code Geass",
         "cover": "https://www.ecranlarge.com/uploads/image/001/150/teamoahtohbctl01eg8h8juzbbq-225.jpg",
+        "description": "In an alternative timeline, the world is divided into three superpowers (similar to the world of Nineteen Eighty-Four by George Orwell): the Holy Britannian Empire (the Americas; also called Britannia), the Chinese Federation (Asia), and the Europa United (Europe and Africa). The story takes place after the Holy Britannian Empire's conquest of Japan on August 10, 2010 a.t.b., by means of Britannia's newest weapon, the Autonomous Armored Knight, or Knightmare Frame. In turn, Britannia effectively strips Japan and its citizens of all rights and freedoms and renames the country Area 11 with its citizens referred to as Elevens. The point of divergence for this timeline appears to be that King Henry VIII of England had a male heir who became King Henry IX. Later, England, led by Queen Elizabeth III, was defeated by Napoleon at the Battle of Trafalgar. The queen fled to Britain's North American colonies where the Britannian Empire was established",
+        "info": {
+            "japaneseTitle": "Kōdo Giasu: Hangyaku no Rurūshu / コードギアス 反逆のルルーシュ",
+            "aired": "October 6, 2006",
+            "status": "November 2, 2008",
+            "studio": "Sunrise"
+        },
         "characters": [
             {
                 "name": "Lelouch Lamperouge",
@@ -195,3 +231,4 @@
         ]
     } 
 ]
+}
